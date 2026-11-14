@@ -1,0 +1,6 @@
+{
+  "name": "ميزان ERP — مصمم قاعدة بيانات الحسابات والمخازن",
+  "description": "منصة تصميم وإدارة الجداول الأساسية لنظام الحسابات والمخازن السحابي (SQL / Supabase): المستودعات، الوحدات ومعامل التحويل، الأصناف والباركود، وشجرة الحسابات الهرمية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
